@@ -7,6 +7,11 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
+<h1>
+titulo aqui
+</h1>
+<ul>
+<li>Escola</li>
+<li>Estudantes</li>
 </body>
 <html
